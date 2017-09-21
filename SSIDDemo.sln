@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIDDemo", "SSIDDemo.dtproj", "{950FE52C-49D1-4509-8D00-B886DD7110FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950FE52C-49D1-4509-8D00-B886DD7110FC}.Development|Default.ActiveCfg = Development
+		{950FE52C-49D1-4509-8D00-B886DD7110FC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D82A5466-D649-4BF9-BDD9-8966DD19C477}
+	EndGlobalSection
+EndGlobal
